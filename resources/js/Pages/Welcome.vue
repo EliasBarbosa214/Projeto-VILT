@@ -165,7 +165,8 @@ defineProps({
                                     Laravel 9 e Inertia.js
                                 </p>
                                 <a
-                                    href="javascript:;"
+                                    href="https://github.com/EliasBarbosa214/Projeto-VILT"
+                                    target="_blank"
                                     class="font-normal text-slate-700 hover:text-slate-400"
                                     >GITHUB: PROJETO VILT</a
                                 >
